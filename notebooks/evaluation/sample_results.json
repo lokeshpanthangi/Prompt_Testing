@@ -1,0 +1,50 @@
+[
+  {
+    "query": "What are the early symptoms of diabetes?",
+    "prompt_type": "zero_shot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "What are the early symptoms of diabetes?",
+    "prompt_type": "few_shot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "What are the early symptoms of diabetes?",
+    "prompt_type": "cot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "What are the early symptoms of diabetes?",
+    "prompt_type": "meta",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "Explain what hypertension means in simple terms",
+    "prompt_type": "zero_shot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "Explain what hypertension means in simple terms",
+    "prompt_type": "few_shot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "Explain what hypertension means in simple terms",
+    "prompt_type": "cot",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  },
+  {
+    "query": "Explain what hypertension means in simple terms",
+    "prompt_type": "meta",
+    "error": "name 'pipe' is not defined",
+    "timestamp": "2025-06-23 20:21:19"
+  }
+]

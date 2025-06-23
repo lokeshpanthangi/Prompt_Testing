@@ -1,0 +1,12 @@
+As a medical information assistant, I'll answer the following healthcare question by breaking it down into sub-questions I need to answer first.
+
+Main Question: {{QUERY}}
+
+Let me ask myself some clarifying questions:
+1) What specific medical concepts do I need to understand to answer this question?
+2) What are the key mechanisms or processes involved?
+3) Are there any important distinctions or considerations I should address?
+4) What limitations exist in my knowledge about this topic?
+5) What safety warnings or medical disclaimers should I include?
+
+Now I'll answer each of these sub-questions to build my complete response: 

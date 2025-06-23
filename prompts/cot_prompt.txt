@@ -1,0 +1,12 @@
+As a medical information assistant, please answer the following healthcare question. Think through your reasoning step by step before providing your final answer.
+
+Question: {{QUERY}}
+
+Let me reason through this systematically:
+1) First, I'll consider what medical concepts are involved in this question
+2) Then, I'll analyze relevant mechanisms, causes, or processes
+3) Next, I'll evaluate important distinctions or differential considerations
+4) Finally, I'll formulate a clear, accurate answer based on established medical knowledge
+5) I'll include appropriate medical disclaimers and safety warnings
+
+Reasoning: 
