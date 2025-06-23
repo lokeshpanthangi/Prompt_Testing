@@ -16,4 +16,4 @@ Answer: Dementia is a general term for symptoms affecting memory, thinking, and 
 IMPORTANT MEDICAL DISCLAIMER: This information is for educational purposes only. If you're concerned about cognitive changes in yourself or a loved one, please consult with a healthcare professional for proper evaluation and support.
 
 Now please answer this medical question:
-{{QUERY}} 
+{{QUERY}}
