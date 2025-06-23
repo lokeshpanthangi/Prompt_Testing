@@ -84,7 +84,7 @@ Our evaluation demonstrates the effectiveness of different prompt engineering te
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/medical-qa-system.git
+   https://github.com/lokeshpanthangi/Prompt_Testing.git
    cd medical-qa-system
    ```
 
